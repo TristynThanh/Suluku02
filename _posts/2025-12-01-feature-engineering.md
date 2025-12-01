@@ -1,6 +1,6 @@
 ---
 title: Bài 1 - Kỹ thuật Feature Engineering
-date: 2025-12-02 09:00:00 +0700
+date: 2025-12-01 09:00:00 +0700
 categories: [Data Science, Machine Learning]
 tags: [feature-engineering, python]
 toc: true      # Dòng này để hiện MỤC LỤC tự động bên phải
