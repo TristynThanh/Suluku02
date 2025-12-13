@@ -1,1 +1,1 @@
-: "Dự án thực hành NumPy"
+"Dự án thực hành NumPy"
