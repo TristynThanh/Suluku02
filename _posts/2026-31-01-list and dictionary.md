@@ -118,7 +118,8 @@
 
  
 
-![Cartoon_ Future Machine Learning Class - KDnuggets.jpg](assets/picture4.png)
+![Machine Learning Class](../assets/picture4.png)
+
 
 
 
