@@ -1,3 +1,11 @@
+---
+title: Bài 2 - Cơ Bản về List và Dictionary 
+date: 2025-12-01 09:00:00 +0700
+categories: [Data Science, Machine Learning]
+tags: [feature-engineering, python]
+toc: true      # Dòng này để hiện MỤC LỤC tự động bên phải
+math: true     # Dòng này để gõ công thức TOÁN
+---
 # []()Tóm Tắt Tổng Hợp Kiến Thức Tuần: List, Dictionary 
 
 
