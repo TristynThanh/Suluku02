@@ -295,7 +295,7 @@ print(binary_search(data, 6))   # -1
 
 
 
-![img - Copy.jpg](/static/uploads/20260116_204026_858cc935.jpg)
+![Hoi_thoai](../assets/unnamed.jpg)
 
 > Tức là ở mỗi lần đoán thì bạn B đã được loại đi 50% các số sai rồi
 
@@ -588,9 +588,7 @@ $$
   - **Kết luận: P25 là 17.5 và nó nằm ở giữa 10 và 20 nhưng sẽ nghiêng về phía 20 hơn vì $w = 0.75$**
 &nbsp;&nbsp;&nbsp;* Hình minh họa nội suy tuyến tính:
 
-<p align="center">
-  <img src="/static/uploads/20260117_232630_c6213a44.png" alt="Picture3">
-</p>
+![percetile](../assets/Picture3.png)
 
 
 **CHEATSHEET CHO PHẦN NÀY.** 
