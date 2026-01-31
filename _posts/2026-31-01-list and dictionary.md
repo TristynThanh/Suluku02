@@ -176,7 +176,7 @@ sử dụng mạng nơ-ron nhiều tầng để tự động học đặc trưng
 👉 Nền tảng của các mô hình ngôn ngữ lớn hiện nay.
 
 
-![1.jpeg](/static/uploads/20260118_180745_c3e58533.jpeg)
+![deeplearningpic](../assets/1.jpeg)
 
 
 ### Cấp độ 4: MLOps & Triểnkhai
